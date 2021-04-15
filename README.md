@@ -1,4 +1,7 @@
-# Project Information
+# Requirements
 
-* Add a brief discription about the project
-* Add the information about extra folders or files added
+* Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
+* Captures Basic Planning of the project through - Sample Gantt Chart attached
+
+* Tools: MS Excel, MS word or Similar
+
