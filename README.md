@@ -12,6 +12,12 @@ The program will do some tasks mention bellow to operate the ATM Machine:
 * User can  Withdraw Cash from ATM Machine
 * User can Deposit Cash from ATM Machine
 
+
+
+
+
+
+
 ## Folder Structure
 
 | Folder | Description |
