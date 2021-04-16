@@ -27,13 +27,7 @@ PS No. |  Name       |    Features
 -------|  ---------  |----------------
 259141 |  Anusha D    | login to ATM Machine,check balance,Deposit Cash,Withdraw Cash from ATM Machine   
    
-   ## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
-
+  
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
