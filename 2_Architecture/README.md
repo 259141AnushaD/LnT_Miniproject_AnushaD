@@ -7,4 +7,5 @@
 * It's an international industry standard graphicalnotation used for describing, visualizing, constructing, and documenting the artifacts of a software system.
  ### UML diagrams are classified into two types
    1.Structure Diagrams
+   
    2.Behavioral Diagrams
