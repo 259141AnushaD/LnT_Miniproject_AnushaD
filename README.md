@@ -23,9 +23,9 @@ The program will do some tasks mention bellow to operate the ATM Machine:
 
 ## Contributors List and Summary
 
-PS No. |  Name       |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|  ---------  |----------------|----------------|---------------|-------------|--------------
-259141 |  Anusha D    | login to ATM Machine,check balance,Deposit Cash,Withdraw Cash from ATM Machine    | 2    | 2 | 5 | 5     
+PS No. |  Name       |    Features    | Issuess Raised 
+-------|  ---------  |----------------|----------------
+259141 |  Anusha D    | login to ATM Machine,check balance,Deposit Cash,Withdraw Cash from ATM Machine   
    
    ## Challenges Faced and How Was It Overcome
 
