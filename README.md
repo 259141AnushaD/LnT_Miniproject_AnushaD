@@ -15,7 +15,8 @@ The program will do some tasks mention bellow to operate the ATM Machine:
 
 
 
-
+[![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)]
+(https://github.com/259141AnushaD/LnT_Miniproject_AnushaD/blob/main/.github/workflows/c%20build.yml)
 
 
 ## Folder Structure
