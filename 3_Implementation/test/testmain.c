@@ -28,22 +28,22 @@ int main()
 
 /* Write all the test functions */ 
 void test_balance(void) {
-  TEST_ASSERT_EQUAL(30, balance(10, 20));
+  TEST_ASSERT_EQUAL(30, checkbalance(10, 20));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(15000, balance(7500, 7500));
+  TEST_ASSERT_EQUAL(15000, checkbalance(7500, 7500));
 }
 
 void test_deposite(void) {
-  TEST_ASSERT_EQUAL(-3, deposite(0, 3));
+  TEST_ASSERT_EQUAL(-3, moneydeposite(0, 3));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(100, deposite(1000, 900));
+  TEST_ASSERT_EQUAL(100, moneydeposite(1000, 900));
 }
 
 void test_withdraw(void) {
-  TEST_ASSERT_EQUAL(0, withdraw(1, 0));
+  TEST_ASSERT_EQUAL(0, moneywithdraw(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(10, withdraw(2, 5));
+  TEST_ASSERT_EQUAL(10, moneywithdraw(2, 5));
 }
