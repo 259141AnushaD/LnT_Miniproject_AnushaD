@@ -1,8 +1,8 @@
-# ATM MACHINE SYSTEM USING
+# ATM MACHINE SYSTEM USING 
 ![image](https://image.shutterstock.com/image-vector/people-waiting-line-near-atm-600w-1373287826.jpg)
 
 
-## Key Features of the ATM Machine project:
+## Key Features
 
 The program will do some tasks mention bellow to operate the ATM Machine:
 
