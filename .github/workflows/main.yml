@@ -1,0 +1,19 @@
+- name: Contribution Inspector
+  # You may pin to the exact commit or the version.
+  # uses: flowdify/contribution-inspector@aef27764f7359ccb5084d25df4e00000e5940cc3
+  uses: flowdify/contribution-inspector@v1.0
+  with:
+    # GitHub Access Token
+    token: 
+    # Message to show when an issue is created successfully
+    issue--greeting-message: # optional, default is Thanks for your contribution! :)
+    # Message to show when a pull request is created successfully
+    pull-request--greeting-message: # optional, default is Thanks for your contribution! :)
+    # Size of the pull request measured by the lines of code changed.
+    pull-request--size-small: # optional, default is 50
+    # Size of the pull request measured by the lines of code changed.
+    pull-request--size-medium: # optional, default is 200
+    # Size of the pull request measured by the lines of code changed.
+    pull-request--size-large: # optional, default is 400
+    # If set to true, "One commit per PR" strategy will be impemented for small pull requests.
+    pull-request--one-commit-per-pr-for-small-pull-requests: # optional
